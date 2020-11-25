@@ -1,0 +1,3 @@
+[submodule "edigode-ui"]
+	path = ui
+	url = https://github.com/KlyuchnikovV/edigode-ui

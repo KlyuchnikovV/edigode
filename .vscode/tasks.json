@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "npm: build - ui",
+			"type": "npm",
+			"script": "build",
+			"path": "ui/",
+			"group": "build",
+			"problemMatcher": [],
+			"detail": "webpack",
+			"presentation": {
+				"echo": false,
+				"reveal": "never",
+				"focus": false,
+				"panel": "shared",
+				"showReuseMessage": false,
+				"clear": true
+			}
+		}
+	]
+}
